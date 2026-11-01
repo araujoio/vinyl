@@ -1,6 +1,6 @@
 import "@/css/globals.css";
+import { ThemeProvider } from "@wrksz/themes/next";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
-import { setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 
@@ -18,12 +18,12 @@ export default async function RootLayout({
     notFound();
   }
 
-  setRequestLocale(locale);
-
   return (
     <html lang={locale} suppressHydrationWarning>
       <body>
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        <ThemeProvider>
+          <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        </ThemeProvider>
       </body>
     </html>
   );
