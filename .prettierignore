@@ -1,6 +1,0 @@
-node_modules
-.next
-backend
-build
-dist
-package-lock.json
