@@ -1,7 +1,7 @@
 import "@/css/globals.css";
 import { ThemeProvider } from "@wrksz/themes/next";
-import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { notFound } from "next/navigation";
+import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { routing } from "@/i18n/routing";
 
 export function generateStaticParams() {

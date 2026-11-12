@@ -4,4 +4,3 @@ export const routing = defineRouting({
   locales: ["en", "pt"],
   defaultLocale: "en",
 });
-
