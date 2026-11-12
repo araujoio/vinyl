@@ -1,0 +1,7 @@
+---
+description: Always read AGENTS.md for project rules and context
+globs: *
+alwaysApply: true
+---
+
+Read [AGENTS.md](../../AGENTS.md).

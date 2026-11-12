@@ -1,9 +1,6 @@
-<!-- BEGIN:nextjs-agent-rules -->
+# Vinyl — Web Player
 
-## This is NOT the Next.js you know
+## Project Overview
+Vinyl is a full-fledged music web player product offering an authentic, production-grade streaming experience. While ergonomically inspired by Spotify's interface, Vinyl is not a generic clone — it maintains its own distinct product identity, original design decisions, and standalone architecture. The platform allows users to explore rich music catalogs, discover artists, manage custom playlists, and stream high-quality track previews.
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
-
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
-
-<!-- END:nextjs-agent-rules -->
+For details on the project structure and tech stack, see [ARCHITECTURE.md](./ARCHITECTURE.md).
