@@ -15,6 +15,11 @@ En modern musikwebbapp för att spela dina favoritlåtar, upptäcka nya album oc
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | [Turkish](../tr/README.md) | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | **Swedish** | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## Uppförandekod
+
+Vänligen läs vår [uppförandekod](../../../CODE_OF_CONDUCT.md).
+
 ## Licens
 
 Licensierad under [MIT-licensen](../../../LICENSE.md).

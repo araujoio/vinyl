@@ -15,6 +15,11 @@ En sevdiğiniz parçaları çalmak, yeni albümleri keşfetmek ve doğrudan tara
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | **Turkish** | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## Davranış Kuralları
+
+Lütfen [davranış kurallarını](../../../CODE_OF_CONDUCT.md) okuyun.
+
 ## Lisans
 
 [MIT lisansı](../../../LICENSE.md) altında lisanslanmıştır.
