@@ -15,6 +15,11 @@ Una moderna aplicación web de música para escuchar tus canciones favoritas, de
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | **Spanish** | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | [Turkish](../tr/README.md) | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## Código de Conducta
+
+Por favor, lee el [código de conducta](../../../CODE_OF_CONDUCT.md).
+
 ## Licencia
 
 Licenciado bajo la [licencia MIT](../../../LICENSE.md).

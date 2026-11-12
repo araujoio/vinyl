@@ -15,6 +15,11 @@
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | **Chinese (Simplified)** | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | [Turkish](../tr/README.md) | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## 行为准则
+
+请阅读 [行为准则](../../../CODE_OF_CONDUCT.md)。
+
 ## 许可证
 
 根据 [MIT 许可证](../../../LICENSE.md) 授权。

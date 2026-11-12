@@ -15,6 +15,11 @@ Eine moderne Musik-Web-App, mit der Sie Ihre Lieblingstitel abspielen, neue Albe
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | **German** | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | [Turkish](../tr/README.md) | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## Verhaltenskodex
+
+Bitte lesen Sie den [Verhaltenskodex](../../../CODE_OF_CONDUCT.md).
+
 ## Lizenz
 
 Lizenziert unter der [MIT-Lizenz](../../../LICENSE.md).

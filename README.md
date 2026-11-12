@@ -14,6 +14,10 @@ A modern music web app to play your favorite tracks, explore new albums, and cre
 
 [Arabic](docs/translations/ar/README.md) | [Chinese (Simplified)](docs/translations/zh/README.md) | [Dutch](docs/translations/nl/README.md) | [French](docs/translations/fr/README.md) | [German](docs/translations/de/README.md) | [Hindi](docs/translations/hi/README.md) | [Indonesian](docs/translations/id/README.md) | [Italian](docs/translations/it/README.md) | [Japanese](docs/translations/ja/README.md) | [Korean](docs/translations/ko/README.md) | [Polish](docs/translations/pl/README.md) | [Portuguese (Brazil)](docs/translations/pt/README.md) | [Russian](docs/translations/ru/README.md) | [Spanish](docs/translations/es/README.md) | [Swedish](docs/translations/sv/README.md) | [Thai](docs/translations/th/README.md) | [Turkish](docs/translations/tr/README.md) | [Ukrainian](docs/translations/uk/README.md) | [Vietnamese](docs/translations/vi/README.md)
 
+## Code of Conduct
+
+Please read the [code of conduct](/CODE_OF_CONDUCT.md).
+
 
 ## License
 

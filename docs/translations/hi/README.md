@@ -15,6 +15,11 @@
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | **Hindi** | [Turkish](../tr/README.md) | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## आचार संहिता
+
+कृपया [आचार संहिता](../../../CODE_OF_CONDUCT.md) पढ़ें।
+
 ## लाइसेंस
 
 [MIT लाइसेंस](../../../LICENSE.md) के तहत लाइसेंस प्राप्त।

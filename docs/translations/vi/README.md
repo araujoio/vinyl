@@ -15,6 +15,11 @@ Một ứng dụng web âm nhạc hiện đại để phát các bản nhạc y�
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | [Turkish](../tr/README.md) | [Dutch](../nl/README.md) | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | **Vietnamese**
 
 
+
+## Quy tắc ứng xử
+
+Vui lòng đọc [quy tắc ứng xử](../../../CODE_OF_CONDUCT.md).
+
 ## Giấy phép
 
 Được cấp phép theo [giấy phép MIT](../../../LICENSE.md).

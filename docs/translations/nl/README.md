@@ -15,6 +15,11 @@ Een moderne muziek-webapp om je favoriete nummers af te spelen, nieuwe albums te
 [English](../../../README.md) | [Portuguese (Brazil)](../pt/README.md) | [Spanish](../es/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Italian](../it/README.md) | [Russian](../ru/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Chinese (Simplified)](../zh/README.md) | [Arabic](../ar/README.md) | [Hindi](../hi/README.md) | [Turkish](../tr/README.md) | **Dutch** | [Polish](../pl/README.md) | [Swedish](../sv/README.md) | [Ukrainian](../uk/README.md) | [Indonesian](../id/README.md) | [Thai](../th/README.md) | [Vietnamese](../vi/README.md)
 
 
+
+## Gedragscode
+
+Lees de [gedragscode](../../../CODE_OF_CONDUCT.md).
+
 ## Licentie
 
 Gelicentieerd onder de [MIT-licentie](../../../LICENSE.md).
